@@ -1,5 +1,10 @@
 # 💫 About Me:
-     Hi, I'm Carlos Oliveira . I'm a Engineer student professional with over 10 years of experience <br>in Mechatronic/software/logistic in big companys.<br><br>My expertise lies in Software Dev, Web Dev, and driving company to develop new tech.<br><br>I'm passionate about leveraging innovative techniques to create impactful tech solutions that <br>drive business growth.            <br><br>
+
+Hi, I'm Carlos Oliveira . 
+I'm a Engineer student professional with over 10 years of experience <br> 
+in Mechatronic/software/logistic in big companys.<br><br>My expertise lies in Software Dev, Web Dev.
+driving company to develop new tech.<br><br>I'm passionate about leveraging innovative techniques to create
+impactful tech solutions that <br>drive business growth. 
 
 
 # 💻 Tech Stack:
