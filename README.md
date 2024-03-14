@@ -18,11 +18,15 @@ E-mail Co9852587@gmail.com
 
 # 💻 Tech Stack:
 
-Especializando
+Especializando/
 Specializing
+
 c# - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
+
 A.I
+
 My main skill 
+
 Minhas principais Habilidades
 
 HTML - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
