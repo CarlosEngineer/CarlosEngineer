@@ -51,14 +51,6 @@ E-mail Co9852587@gmail.com
 -Docker
   
 
-in construction 
-Em desenvolvimento
-
-I Intent to explore in the future: 
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CarlosEngineer&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosEngineer&theme=merko&hide_border=false)<br/>
