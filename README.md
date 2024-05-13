@@ -45,8 +45,11 @@ E-mail Co9852587@gmail.com
 
 - SQLSERVER
 - AZURE
-- MONGODB 
+- MONGODB
 
+### VIRTUALIZAÇÃO:
+-Docker
+  
 
 in construction 
 Em desenvolvimento
