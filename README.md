@@ -7,9 +7,16 @@ My name is Carlos, I'm  a Software Engineer and  System Developer Engineer.
 
 ola Pessoal! 
 
-Olá, meu nome é Carlos Eduardo. Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de software. Tenho uma sólida experiência em C#, onde desenvolvi diversos projetos que vão desde aplicações desktop até sistemas web complexos. Sempre busco melhorias contínuas e a melhor automação que a tecnologia pode proporcionar. Sou proficiente no uso do .NET Framework e do .NET Core, e tenho habilidade em criar APIs RESTful e integrações com diversos serviços. Além disso, estou constantemente atualizando meus conhecimentos sobre boas práticas de programação, padrões de design e novas tecnologias no ecossistema C#. No momento, meu foco está em avançar na minha carreira e aprimorar minhas habilidades profissionais.
+Olá, meu nome é Carlos Eduardo. Sou estudante de Engenharia de Software,
+apaixonado por tecnologia e desenvolvimento de software. 
+Tenho  experiência em C#, onde desenvolvi Alguns projetos
+que vão desde aplicações desktop até sistemas web mais complexos. 
+Sempre busco melhorias contínuas e a melhor automação que a tecnologia pode proporcionar. 
+Tenho familiriaridade com a ferramenta .NET Framework e do .NET Core, e tenho habilidade em criar APIs RESTful e integrações com diversos serviços. 
+Além disso, estou constantemente atualizando meus conhecimentos sobre boas práticas de programação, padrões de design e novas tecnologias no ecossistema C#. 
+No momento, meu foco está em avançar na minha carreira e conseguir uma colocação no mercado de trabalho e aprimorar minhas habilidades profissionais.
 
-Sou desenvolvedor Dotnet Junior.
+Sou desenvolvedor .Net Junior.
 
 
 E-mail Co9852587@gmail.com
